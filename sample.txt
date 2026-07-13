@@ -1,1 +1,1 @@
-this is the first file greated in git bash
+this is the first file created in git bash
